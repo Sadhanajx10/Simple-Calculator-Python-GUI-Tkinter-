@@ -8,7 +8,7 @@ from tkinter import *
 
 root = Tk()
 root.title("Happy Calculator")
-root.configure(bg="brown")
+root.configure(bg="lightgrey")
 
 # Creating an entry widget for displaying and inputting numbers
 
